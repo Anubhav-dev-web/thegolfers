@@ -17,6 +17,11 @@ This project is a clone of the Sidcup Family Golf website. It includes functiona
 - Smooth animations triggered by scrolling.
 - Mobile navigation menu with open and close functionality.
 
+## Preview
+
+![gol1](https://github.com/Anubhav-dev-web/thegolfers/assets/80172002/79af1151-d8c4-40ca-82b5-4cb40ef8b5b1)
+
+
 ## How to Run
 
 1. Clone the repository to your local machine.
